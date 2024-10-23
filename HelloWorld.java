@@ -8,5 +8,7 @@ publc class HelloWorld {
     System.out.println("日本電子専門学校");
     System.out.println("日本電子専門学校");
     System.out.println("日本電子専門学校");
+    System.out.println("本郷幸輝");
+    System.out.println("20歳");
   }
 }
